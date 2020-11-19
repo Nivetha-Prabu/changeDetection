@@ -1,0 +1,14 @@
+:host { 
+    font-family: Lato; 
+  } 
+  div {  
+    border: 2px solid black; 
+    padding: 5px;
+    background: #EEEEEE; 
+  }
+  .child-container {
+    background-color: orange;
+    width: 25%;
+    height:50%;
+    color:white;
+  }
